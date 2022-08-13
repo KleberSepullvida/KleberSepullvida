@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Kleber Sepulvida
 
 
-- 🔭 Estou trabalhando com Finanças, mas me preparando para migrar de área e me tornar um Q.A
+- 🔭 Estou trabalhando com Finanças, mas me preparando para migrar de área pois meu objetivo atual é atuar com Q.A
 - 🌱 Estou estudando Javascript no momento
 
 <div align="center">
